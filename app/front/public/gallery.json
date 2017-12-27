@@ -745,6 +745,7 @@
 {"name":"Visual Studio Bold","url":"https://raw.githubusercontent.com/Trismegistos84/visual-studio-bold/master/Visual%20Studio%20Bold.tmTheme","light":true},
 {"name":"Visual Studio Dark","url":"https://raw.githubusercontent.com/nikeee/visual-studio-dark/master/Visual%20Studio%20Dark.tmTheme","light":false},
 {"name":"Visual Studio Light","url":"https://raw.githubusercontent.com/mihaifm/Visual-Studio.tmTheme/master/Visual%20Studio.tmTheme","light":true},
+{"name":"Vorarlberg","url":"https://gist.githubusercontent.com/Snake-Sanders/dd803687495f46725ee34ab2117635b6/raw/6070ca8f15201de6c762da4b7c537d54e019e060/Vorarlberg.tmTheme","light":true},
 {"name":"VS_001","url":"https://raw.githubusercontent.com/sean1138/webdev_stuff/master/VS_001.tmTheme","light":false},
 {"name":"Warpos","url":"https://raw.githubusercontent.com/idleberg/WarpOS.tmTheme/master/WarpOS.tmTheme","light":false},
 {"name":"WebExPert","url":"https://raw.githubusercontent.com/matiaspub/WebExPertColorScheme/master/WebExPert.tmTheme","light":false},
